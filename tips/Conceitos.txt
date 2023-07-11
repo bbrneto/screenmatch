@@ -1,0 +1,3 @@
+Em resumo, o Spring é o framework principal, que oferece uma ampla variedade de recursos e funcionalidades para o desenvolvimento de aplicações Java. 
+O Spring Boot, por outro lado, é uma camada adicional que facilita a configuração e a inicialização de aplicações Spring, simplificando o processo de criação e implantação de aplicações. 
+O Spring Boot aproveita o poder e a flexibilidade do Spring Framework, mas adiciona convenções e recursos para facilitar o desenvolvimento rápido de aplicações prontas para produção.
